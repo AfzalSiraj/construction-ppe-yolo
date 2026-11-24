@@ -70,6 +70,7 @@ The full per-class results are in [`results/results_per_class.csv`](results/resu
 - Test how well the model transfers to top-down drone or crane-camera images.
 - Convert pixel distances to metres using a calibrated camera.
 - Improve recall on the missing-PPE classes with more data, higher resolution or class-weighted training.
+- Done: see worker-tracking-warnings.
 
 ## How to run it
 
